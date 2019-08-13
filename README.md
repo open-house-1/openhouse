@@ -14,7 +14,10 @@ Once he approves the complaint , it is visible to all the other people.
 The people facing the same problems can respond so that the common issue is taken into consideration first.
 This application helps to put forward all the problems in front of the management so that the management takes immediate actions to resolve them and also solves our problem by saving the time of the student as well as the management.
 
-# For implementation
-TECHNOLOGY USED: Android
-LANGUAGE USED: Java
-TOOLS: Android Studio from IntelliJ, Google Firebase
+
+# TECHNOLOGY USED
+Android
+# LANGUAGE USED
+Java
+# TOOLS
+Android Studio from IntelliJ, Google Firebase
