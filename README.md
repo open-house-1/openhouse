@@ -18,6 +18,10 @@ This application helps to put forward all the problems in front of the managemen
 # TECHNOLOGY USED
 Android
 # LANGUAGE USED
-Java
+Java , XML
 # TOOLS
 Android Studio from IntelliJ, Google Firebase
+# Analytics
+Data Analysios using excel 
+# Database
+Google Firebase
