@@ -22,6 +22,6 @@ Java , XML
 # TOOLS
 Android Studio from IntelliJ, Google Firebase
 # Analytics
-Data Analysios using excel 
+Data Analysis using Excel 
 # Database
 Google Firebase
